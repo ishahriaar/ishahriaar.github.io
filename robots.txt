@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://ishahriar94.github.io/sitemap.xml
